@@ -1,3 +1,3 @@
-# Millan.github.io
+# KyleIanMillan.github.io
 
-Hi I am Kyle Ian Millan
+#Hi I am Kyle Ian Millan
